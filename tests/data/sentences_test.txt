@@ -1,0 +1,14 @@
+Sentence 1 written for testing.
+Sentence 2 written for testing..., Sentence written for testing.
+Sentence 3 written for testing; Sentence written for testing.
+Sentence 4 written for testing?
+Sentence 5 written for testing!
+Sentence 6 written for testing ?
+Sentence 7 written for testing !
+Sentence 8 written for testing(Sentence written for testing).
+Sentence 9 written for testing: Sentence written for testing.
+Sentence 10 written for testing, Sentence written for testing.
+Sentence 11 written for testing...
+Sentence 12 written for testing... - Sentence written for testing
+...Sentence written for testing.
+
